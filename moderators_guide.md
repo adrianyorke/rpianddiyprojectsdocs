@@ -1,6 +1,8 @@
 # Moderator's Guide
 
 ## Objectives
+- Admin Team Motto: "Tolerance By Default". We assume the best in people but act swiftly when it is clear that there is a problem.
+- We need to be consistent with our moderation of the group to avoid conflict that arises when member's are treated differently.
 
 ## Onboarding Guidance
 - If a new member request has accepted the group rules and answered all the onboarding questions, the request will be automatically accepted.
