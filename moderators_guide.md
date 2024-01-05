@@ -1,7 +1,7 @@
-## Moderators Guide
+# Moderators Guide
 
-# Objectives
+## Objectives
 
-# How to handle member conflict and bullying
+## How to handle member conflict and bullying
 
-# Onboarding Guidance
+## Onboarding Guidance
