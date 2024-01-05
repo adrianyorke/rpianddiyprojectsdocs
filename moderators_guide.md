@@ -1,4 +1,4 @@
-# Moderators Guide
+# Moderator's Guide
 
 ## Objectives
 
