@@ -6,8 +6,9 @@
 
 ## Onboarding Guidance
 - If a new member request has accepted the group rules and answered all the onboarding questions, the request will be automatically accepted.
-- If a new member request has not accepted the group rules, it will automatically be declined normally within 1 hour by Facebook Admin Assist.
-- If a new member request has accepted the group rules, but has not answered all the onboarding questions (currently there are 3), the request will be referred for moderation.
+- If a new member request has not accepted the group rules, it will automatically be declined (normally within 1 hour) by Facebook Admin Assist.
+- If a new member request has accepted the group rules, but has not answered all the onboarding questions (currently there are 3), the request will be declined (normally within 1 hour) by Facebook Admin Assist.
+> Note: Facebook Admin Assist sometimes goes offline. When this happens, manual moderation is required to clear the backlog of requests that would normally have been declined automatically.
 
 ## How to handle member conflict and bullying
 - In general, this group is a safe and friendly place.
